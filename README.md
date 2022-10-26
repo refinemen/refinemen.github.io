@@ -1,3 +1,2 @@
-# refinemen.github.io
-myblog网站
+# Myblog网站
 https://xiaochu.gq/
